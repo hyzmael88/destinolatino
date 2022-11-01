@@ -1,5 +1,5 @@
 import React from "react";
-import bg from "../assets/inicio-bg.png";
+import bg from "../assets/iniciobg.png";
 import papelizq from "../assets/papelizq.png";
 import papelder from "../assets/papelder.png";
 import inicioImg from "../assets/inicio-img.png";

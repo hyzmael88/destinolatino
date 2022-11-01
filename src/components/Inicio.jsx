@@ -3,7 +3,7 @@ import React from "react";
 import papelizq from "../assets/papelizq.png";
 import papelder from "../assets/papelder.png";
 import inicioImg from "../assets/inicio-img.png";
-import bg from "../assets/inicio-bg.png";
+import bg from "../assets/iniciobg.png";
 import {Link} from 'react-router-dom'
 
 function Inicio() {
