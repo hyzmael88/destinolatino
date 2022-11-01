@@ -1,8 +1,9 @@
 import React from "react";
-import bg from "../assets/inicio-bg.png";
+
 import papelizq from "../assets/papelizq.png";
 import papelder from "../assets/papelder.png";
 import inicioImg from "../assets/inicio-img.png";
+import bg from "../assets/inicio-bg.png";
 import {Link} from 'react-router-dom'
 
 function Inicio() {
