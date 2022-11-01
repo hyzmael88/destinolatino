@@ -8,14 +8,14 @@ import historiaimg from '../assets/celebracion-img.png'
 
 function Celebracion() {
   return (
-    <div className="w-full h-[1020px] bg-[#190021] relative">
+    <div className="w-full h-[1050px] bg-[#190021] relative">
       <img className="w-screen h-screen object-cover " src={bg} />
       <img className="absolute w-1/3 top-0 left-0" src={papelizq} />
       <img className="absolute w-1/3  top-0 right-0" src={papelder} />
-      <div className="text-white absolute top-[11%] flex flex-col  w-full justify-center items-center ">
-      <h4 className="font-squada-one text-6xl text-[#F0BE04]">Celebración del</h4>
-    <h2 className="font-squada-one text-8xl text-[#F34D58]">Día de Muertos</h2>
-    <p className="font-poppins w-[460px] mt-5 text-center">
+      <div className="text-white absolute top-[7%] flex flex-col  w-full justify-center items-center ">
+      <h4 className="font-squada-one text-5xl text-[#F0BE04]">Celebración del</h4>
+    <h2 className="font-squada-one text-6xl text-[#F34D58]">Día de Muertos</h2>
+    <p className="font-poppins w-full md:w-[450px] mt-5 text-center">
     En la Ciudad de México, en la Alcaldía de Tláhuac, se encuentra un pequeño poblado de nombre Mixquic, que significa “donde hay mezquite”, uno de los lugares más visitados durante estos días ya que su celebración se apega a las tradiciones mexicanas y se lleva a cabo conjuntamente con la feria del pueblo. El día 2 de noviembre se realiza “La Alumbrada”, donde miles de velas iluminan las tumbas decoradas con flores.
     </p>
         <img className="h-[400px] mt-5 mb-5"  src={historiaimg} />
