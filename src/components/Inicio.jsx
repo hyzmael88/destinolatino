@@ -28,13 +28,13 @@ function Inicio() {
           <Link to="/tradicion">
             {" "}
             <button className="bg-[#F34D58] hover:bg-[#F0BE04] mr-4 text-white font-bold py-2 px-4 border-b-4 rounded">
-              Tradicion
+              Tradición
             </button>{" "}
           </Link>
           <Link to="/celebracion">
             {" "}
             <button className="bg-[#F34D58] hover:bg-[#F0BE04] text-white font-bold py-2 px-4 border-b-4 rounded">
-              Celebracion
+              Celebración
             </button>
           </Link>
         </div>
