@@ -16,7 +16,7 @@ function Tradicion() {
           <div className="text-white absolute top-[7%] flex flex-col  w-full justify-center items-center ">
           <h4 className="font-squada-one text-5xl text-[#F0BE04]">Tradiciones del</h4>
         <h2 className="font-squada-one text-6xl text-[#F34D58]">Día de Muertos</h2>
-        <p className="font-poppins w-full md:w-[450px] mt-5 text-center">
+        <p className="font-poppins w-[340px] md:w-[450px] mt-5 text-center">
         Cada año muchas familias colocan ofrendas y altares decorados con flores de cempasúchil, papel picado, calaveritas de azúcar, pan de muerto, mole o algún platillo que le gustaba a sus familiares a quien va dedicada la ofrenda, y al igual que en tiempos prehispánicos, se coloca incienso para aromatizar el lugar.        </p>
             <img className="h-[100px] mt-4 mb-4" src={historiapicado} />
             <img className="h-[400px]"  src={historiaimg} />

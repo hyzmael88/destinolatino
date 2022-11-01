@@ -16,7 +16,7 @@ function Inicio() {
         <h4 className="font-squada-one text-5xl text-[#F0BE04]">Día de </h4>
         <h2 className="font-squada-one text-7xl  text-[#F34D58]">Muertos</h2>
         <img className="w-[460px]" src={inicioImg} />
-        <p className="font-poppins w-full md:w-[450px] mt-5 text-center">
+        <p className="font-poppins w-[340px] md:w-[450px] mt-5  text-center">
         Cada sociedad afronta la muerte de maneras diferentes pero los mexicanos lo hacen de una manera muy particular. Son varios días de fiesta y ritual para recordar a seres queridos y familiares cuyas almas, según la costumbre, vuelven por una noche a compartir con el mundo de los vivos
         </p>
         <div className="mt-4 ">

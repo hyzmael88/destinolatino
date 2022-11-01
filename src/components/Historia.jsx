@@ -18,7 +18,7 @@ function Historia() {
           <div className="text-white absolute top-[7%] flex flex-col  w-full justify-center items-center ">
           <h4 className="font-squada-one text-5xl text-[#F0BE04]">Celebremos el</h4>
         <h2 className="font-squada-one text-5xl text-[#F34D58]">Día de Muertos</h2>
-        <p className="font-poppins w-full md:w-[450px] mt-5 text-center">
+        <p className="font-poppins w-[340px] md:w-[450px] mt-5 text-center">
         Se festeja desde el 31 de octubre, y el 1 y 2 de noviembre, ya que el primer día, de acuerdo con el calendario católico, corresponde a Todos los Santos, dedicado a los muertos niños; y el primero, a los Fieles Difuntos, es decir, a los adultos fallecidos. El dos de noviembre las almas visitantes emprenden el retorno
         </p>
             <img className="h-[100px] mt-4 mb-4" src={historiapicado} />
